@@ -1,2 +1,2 @@
 # javaee-visrec
-Example implementation for Java EE.
+Reference implementation of JSR 381 for JavaEE.
